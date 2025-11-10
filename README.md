@@ -4,7 +4,7 @@
 learning a liiittle bit of everything
 
 <div align="center">
-<h3>Tech Stack:</h3>
+<h2>Tech Stack:</h2>
 For now I understand kinda okay these techs: <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"> <br>
@@ -12,15 +12,15 @@ For now I understand kinda okay these techs: <br>
 </div>
 
 <div align="center">
-<h3>On the other hand I'm just learning a bit of these other ones:</h3>
+On the other hand I'm just learning a bit of these other ones:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"> <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge"> <br>
 </div>
 
 <h2>Social profiles:</h2>
 <ul>
-<li>Discord: @ug__x<li>
-<li>Instagram: ug._nx<li>
+<li>Discord: @ug__x</li>
+<li>Instagram: ug._nx</li>
 </ul>
 <br>
 <img src="G05c0D4XcAA7j5k.jpeg" title='Credits to @flapjastic on X'>
