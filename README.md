@@ -16,9 +16,9 @@ learning a liiittle bit of everything
     <h2>Tech Stack:</h2>
 </summary>
 For now I understand kinda okay these techs: <br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/>
 <!--</div>-->
 </details>
 
@@ -27,8 +27,8 @@ For now I understand kinda okay these techs: <br>
     <!--<div align="center">-->
 </summary>
 On the other hand I'm just learning a bit of these other ones: <br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> 
 <!--</div>-->
 </details>
 
@@ -37,8 +37,9 @@ On the other hand I'm just learning a bit of these other ones: <br>
 Discord: @ug__x <br>
 Instagram: ug._nx <br>
 </div>
+<br>
 </details>
-<img src="G05c0D4XcAA7j5k.jpeg" title='Credits to @flapjastic on X'>
+<img src="G05c0D4XcAA7j5k.jpeg" alt='peak' title='Credits to @flapjastic on X'>
 
 <!--
 **SkibidiYonklainermarxilenStealaBrainrot/SkibidiYonklainermarxilenStealaBrainrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
