@@ -1,39 +1,31 @@
 <div align="center">
-<h2>Womp womp</h2>
+<h1>Womp womp</h1>
 <details>
 <summary>
     <h2>About me:</h2>
 </summary>
-19yo from Chile, on my first year of computer engineering. <br>
-learning a liiittle bit of everything
+<h4>19yo from Chile, on my first year of computer engineering. <br>
+learning a liiittle bit of everything</h4>
 </details>
-<!--</div>-->
 
-
-<!--<div align="center">-->
 <details>
 <summary>
     <h2>Tech Stack:</h2>
 </summary>
-For now I understand kinda okay these techs: <br>
+<h4>For now I understand kinda okay these techs: <br></h4>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/>
-<!--</div>-->
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/> 
+<br>
+<h4>On the other hand I'm just learning a bit of these other ones: <br></h4>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> 
 </details>
 
 <details>
 <summary>
-    <!--<div align="center">-->
+    <h2>Social profiles:</h2>
 </summary>
-On the other hand I'm just learning a bit of these other ones: <br>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> 
-<!--</div>-->
-</details>
-
-<!--<div align="center">-->
-<h2>Social profiles:</h2>
 Discord: @ug__x <br>
 Instagram: ug._nx <br>
 </div>
