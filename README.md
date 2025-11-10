@@ -7,7 +7,7 @@
 19yo from Chile, on my first year of computer engineering. <br>
 learning a liiittle bit of everything
 </details>
-</div>
+<!--</div>-->
 
 
 <div align="center">
@@ -19,13 +19,17 @@ For now I understand kinda okay these techs: <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/>
-</div>
+<!--</div>-->
+</details>
 
-<div align="center">
+<details>
+<summary>
+    <div align="center">
+</summary>
 On the other hand I'm just learning a bit of these other ones: <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>  <br>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> <br>
-</div>
+<!--</div>-->
 </details>
 
 <div align="center">
