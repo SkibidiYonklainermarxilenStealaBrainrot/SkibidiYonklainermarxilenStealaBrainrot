@@ -1,23 +1,32 @@
 <div align="center">
 <h3>Womp womp</h3>
-<h2>About me:</h2>
+<details>
+<summary>
+    <h2>About me:</h2>
+</summary>
 19yo from Chile, on my first year of computer engineering. <br>
 learning a liiittle bit of everything
+</details>
 </div>
 
+
 <div align="center">
-<h2>Tech Stack:</h2>
+<details>
+<summary>
+    <h2>Tech Stack:</h2>
+</summary>
 For now I understand kinda okay these techs: <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"> <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"> <br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> <br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> <br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/>
 </div>
 
 <div align="center">
 On the other hand I'm just learning a bit of these other ones: <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"> <br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge"> <br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/>  <br>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> <br>
 </div>
+</details>
 
 <div align="center">
 <h2>Social profiles:</h2>
@@ -27,6 +36,7 @@ On the other hand I'm just learning a bit of these other ones: <br>
 </ul>
 <br>
 </div>
+</details>
 <img src="G05c0D4XcAA7j5k.jpeg" title='Credits to @flapjastic on X'>
 
 <!--
