@@ -33,6 +33,7 @@ Instagram: ug._nx <br>
 <br>
 </details>
 <img src="G05c0D4XcAA7j5k.jpeg" alt='peak' title='Credits to @flapjastic on X'>
+idk when I'm gonna 'beautify' this profile, but someday I'll do it x'd
 
 <!--
 **SkibidiYonklainermarxilenStealaBrainrot/SkibidiYonklainermarxilenStealaBrainrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
