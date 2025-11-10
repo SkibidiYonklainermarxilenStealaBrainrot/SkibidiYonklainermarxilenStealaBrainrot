@@ -20,7 +20,7 @@ learning a liiittle bit of everything</h4>
 <h4>On the other hand I'm just learning a bit of these other ones: <br></h4>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> <br>
-<h6>didn't find a good C icon</h6>
+<h6>didn't find a good C icon</h6>🥀
 </details>
 
 <details>
