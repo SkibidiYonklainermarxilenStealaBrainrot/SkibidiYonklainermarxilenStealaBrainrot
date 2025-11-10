@@ -1,7 +1,9 @@
+<div align="center">
 <h3>Womp womp</h3>
 <h2>About me:</h2>
 19yo from Chile, on my first year of computer engineering. <br>
 learning a liiittle bit of everything
+</div>
 
 <div align="center">
 <h2>Tech Stack:</h2>
@@ -12,17 +14,19 @@ For now I understand kinda okay these techs: <br>
 </div>
 
 <div align="center">
-On the other hand I'm just learning a bit of these other ones:
+On the other hand I'm just learning a bit of these other ones: <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"> <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge"> <br>
 </div>
 
+<div align="center">
 <h2>Social profiles:</h2>
 <ul>
 <li>Discord: @ug__x</li>
 <li>Instagram: ug._nx</li>
 </ul>
 <br>
+</div>
 <img src="G05c0D4XcAA7j5k.jpeg" title='Credits to @flapjastic on X'>
 
 <!--
