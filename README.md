@@ -3,24 +3,26 @@
 19yo from Chile, on my first year of computer engineering. <br>
 learning a liiittle bit of everything
 
-<p align="center">
+<div align="center">
 <h3>Tech Stack:</h3>
 For now I understand kinda okay these techs:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 <h3>On the other hand I'm just learning a bit of these other ones:</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"></li>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language Badge">
-</p>
+</div>
 
 <h2>Social profiles:</h2>
-Discord: @ug__x <br>
-Instagram: ug._nx <br>
-
+<ul>
+<li>Discord: @ug__x <br><li>
+<li>Instagram: ug._nx <br><li>
+</ul>
+<br>
 <img src="G05c0D4XcAA7j5k.jpeg" title='Credits to @flapjastic on X'>
 
 <!--
