@@ -33,7 +33,17 @@ Instagram: ug._nx <br>
 <br>
 </details>
 <img src="G05c0D4XcAA7j5k.jpeg" alt='peak' title='Credits to @flapjastic on X'>
-idk when I'm gonna 'beautify' this profile, but someday I'll do it x'd
+<br>
+<br>
+
+<div align="center">
+<details>
+<summary>
+    <h3>Lil extra</h3>
+</summary>
+<h6>idk when I'm gonna 'beautify' this profile, but someday I'll do it x'd</h6><br>
+<h6>and I REALLY don't know how it took me about 20 commits for this to look decent</h6>🥀🥀🥀
+</div>
 
 <!--
 **SkibidiYonklainermarxilenStealaBrainrot/SkibidiYonklainermarxilenStealaBrainrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
