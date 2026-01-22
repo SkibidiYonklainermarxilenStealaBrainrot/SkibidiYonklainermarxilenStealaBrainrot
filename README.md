@@ -1,10 +1,11 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center">
 <h1>Womp womp</h1>
 <details>
 <summary>
     <h2>About me:</h2>
 </summary>
-<h4>19yo from Chile, on my first year of computer engineering. <br>
+<h4>19yo from Chile, on my second year of computer engineering. <br>
 learning a liiittle bit of everything</h4>
 </details>
 
@@ -13,14 +14,13 @@ learning a liiittle bit of everything</h4>
     <h2>Tech Stack:</h2>
 </summary>
 <h4>For now I understand kinda okay these techs: <br></h4>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="CSS"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="py" title="Python"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" title="HTML5"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" title="CSS"/> 
 <br>
 <h4>On the other hand I'm just learning a bit of these other ones: <br></h4>
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" /> <br>
-<h6>didn't find a good C icon</h6>🥀
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C plus plus"> <br>
 </details>
 
 <details>
